@@ -1,9 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Sreyansu Sekhar Mohanty</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Blockchain+Enthusiast+%7C+Tech+Innovator;Building+the+future+one+block+at+a+time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=22&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Blockchain+Explorer+%7C+Tech+Innovator;Bridging+Technology+and+Creativity;Building+Scalable+and+Impactful+Solutions" />
 </p>
-
 ---
 
 ## 🚀 About Me
